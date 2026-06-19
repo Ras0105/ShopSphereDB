@@ -1,0 +1,12 @@
+-- users
+-- addresses
+-- categories
+-- products
+-- inventory
+-- cart
+-- orders
+-- order_items
+-- payments
+-- shipping
+-- reviews
+-- refunds
